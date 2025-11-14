@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+yfinance
+backtrader>=1.9.78.123
+scikit-learn
+matplotlib
+tqdm
