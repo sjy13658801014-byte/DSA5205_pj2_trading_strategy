@@ -50,5 +50,3 @@ python 04_backtest_improved.py
 
 > *Output: Console summary of strategy performance.*
 
-```
-```
